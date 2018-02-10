@@ -12,16 +12,16 @@
         "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable-xhdpi/action_search.png"
     },
     {
-        "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/layout_fragment_planet.xml.flat",
-        "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/layout/fragment_planet.xml"
-    },
-    {
         "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
         "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable_uranus.jpg.flat",
         "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable/uranus.jpg"
+    },
+    {
+        "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/layout_fragment_list.xml.flat",
+        "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/layout/fragment_list.xml"
     },
     {
         "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable_earth.jpg.flat",
@@ -44,12 +44,12 @@
         "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable/saturn.jpg"
     },
     {
-        "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable_mars.jpg.flat",
-        "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable/mars.jpg"
-    },
-    {
         "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/layout_drawer_list_item.xml.flat",
         "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable_mars.jpg.flat",
+        "source": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/src/main/res/drawable/mars.jpg"
     },
     {
         "merged": "/Users/z00294w/AndroidStudioProjects/NavigationDrawer2/app/build/intermediates/res/merged/debug/drawable_jupiter.jpg.flat",

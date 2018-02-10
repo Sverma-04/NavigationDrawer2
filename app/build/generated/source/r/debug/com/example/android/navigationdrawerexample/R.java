@@ -9,7 +9,7 @@ package com.example.android.navigationdrawerexample;
 
 public final class R {
   public static final class array {
-    public static final int planets_array=0x7f010000;
+    public static final int list_array=0x7f010000;
   }
   public static final class drawable {
     public static final int action_search=0x7f020000;
@@ -35,7 +35,7 @@ public final class R {
   public static final class layout {
     public static final int activity_main=0x7f040000;
     public static final int drawer_list_item=0x7f040001;
-    public static final int fragment_planet=0x7f040002;
+    public static final int fragment_list=0x7f040002;
   }
   public static final class menu {
     public static final int main=0x7f050000;
@@ -46,5 +46,6 @@ public final class R {
     public static final int app_not_available=0x7f060002;
     public static final int drawer_close=0x7f060003;
     public static final int drawer_open=0x7f060004;
+    public static final int hello=0x7f060005;
   }
 }
